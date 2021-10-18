@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Spooky Flix",
+        "live": "https://spookyflix.vercel.app/",
+        "git": "https://github.com/marlonsalinas/spooky-flix",
+        "image": "https://user-images.githubusercontent.com/88510425/134852928-29f027e9-753e-438c-8002-1c1274a81111.png"
+    },
+    {
+        "name": "Dreamly",
+        "live": "http://dreamlyy.herokuapp.com/dreamly",
+        "git": "https://github.com/marlonsalinas/project2",
+        "img": "https://user-images.githubusercontent.com/88510425/136560925-02366727-9742-432c-be30-67e7f0b29903.png"
+    }
+]
